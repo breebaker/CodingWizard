@@ -5,10 +5,13 @@
 <table class="ou_grid">
 <tbody>
 <tr>
-<td class="ou_6">
+<td class="ou_5">
 <h3><img class="" src="{{f:31108209}}" alt="merlow logo" width="400" height="300" /></h3>
 </td>
-<td class="ou_6">
+<td class="ou_2">
+<h3>hi</h3>
+</td>
+<td class="ou_5">
 <h3><br /><img class="" src="/images/oercommonsresize.png" alt="oer commons logo" width="324" height="382" /></h3>
 </td>
 </tr>
